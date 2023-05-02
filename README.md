@@ -14,6 +14,26 @@ It is important to remember that in a real project is important to follow the co
 - [NodeJS](https://nodejs.org/en)
 - [ExpressJS](https://expressjs.com)
 
+## ⚙️ Running The API
+
+Enter the **crossfit-wod-api** folder:
+
+```bash
+cd crossfit-wod-api
+```
+
+Install the dependencies:
+
+```bash
+npm i -Y
+```
+
+Run the API:
+
+```bash
+npm run dev
+```
+
 ## 🖋️ Architecture
 
 ![Architecture Design Made by Jean](doc-resources/architecture.png)
